@@ -1,13 +1,13 @@
 body {
     text-align: center;
-    background-color: #283149;
+    background-color:#7a0a35 ;
   }
   
   h1 {
-    font-size: 5rem;
-    color: #DBEDF3;
+    font-size: 5.5rem;
+    color: #c8c5a3;
     font-family: "Arvo", cursive;
-    text-shadow: 3px 0 #DA0463;
+    text-shadow: 3px 0  #DBEDF3;
   
   }
   
@@ -65,7 +65,7 @@ body {
   
   .drum {
     outline: none;
-    border: 10px solid #404B69;
+    border: 8px solid #c8c5a3;
     font-size: 5rem;
     font-family: 'Arvo', cursive;
     line-height: 2;

@@ -1,8 +1,10 @@
+/* Set text alignment to center and added background color */
 body {
     text-align: center;
     background-color:#7a0a35 ;
   }
-  
+
+/* Styling for the h1 element */
   h1 {
     font-size: 5.5rem;
     color: #c8c5a3;
@@ -11,11 +13,7 @@ body {
   
   }
   
-  footer {
-    color: #DBEDF3;
-    font-family: sans-serif;
-  }
-  
+/* Individual button background images */
   .w {
     background-image: url("images/tom1.png");
   
@@ -44,25 +42,20 @@ body {
   .l {
     background-image: url("images/kick.png");
   }
-  
+
+/* Center the button container */
   .set {
     margin: 10% auto;
   }
-  
-  .game-over {
-    background-color: red;
-    opacity: 0.8;
-  }
-  
+
+
+  /* Add shadow and reduce opacity when a button is pressed */
   .pressed {
     box-shadow: 0 3px 4px 0 #DBEDF3;
     opacity: 0.5;
   }
-  
-  .red {
-    color: red;
-  }
-  
+
+/* Styling for all drum buttons */
   .drum {
     outline: none;
     border: 8px solid #c8c5a3;
